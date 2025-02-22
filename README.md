@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning cloud and AI
+- 👯 I’m looking to collaborate on training AI model
 <!--
-**rstucs/rstucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yoshstd/yoshstd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
